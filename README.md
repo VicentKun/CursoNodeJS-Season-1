@@ -1,2 +1,2 @@
-# CursoNodeJS-Season-1
-Team 1 - Introducción y Ejemplos.
+# Team 1 - Introducción y Ejemplos.
+
