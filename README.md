@@ -1,4 +1,4 @@
-# Team 1 - Introducción y Ejemplos.
+# Tema 1 - Introducción y Ejemplos.
 ### ¿Porqué NodeJS?
 <ul>
   <li>Es JavaScript lo que nos permite con un solo lenguaje programar el cliente y en servidor.</li>
